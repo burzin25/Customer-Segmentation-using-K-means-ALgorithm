@@ -1,10 +1,15 @@
 # Customer-Segmentation-using-K-means-ALgorithm
 
 Step 1: Creating a Business Case
+
 Step 2: Preparing the Data
+
 Step 3: Data Analysis and exploraiton
+
 Step 4: Clustering Analysis
+
 Step 5: Choosing Optimal Hyperparameters
+
 Step 6: Visualization and Interpretation
 
 What is Customer Segmentation ?
